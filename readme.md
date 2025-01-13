@@ -25,7 +25,7 @@ The project creates a centered profile card that includes:
 ## Contributing
 -  Fatima Abaiji
 -  Oliver Hughes
--  Ben
+-  Ben Darlington
 
 The card is responsive and centered on the page using Bootstrap's card component and utility classes.
 
