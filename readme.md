@@ -10,7 +10,7 @@ a name, a short bio, and a "Follow" button. It is responsive and utilizes Bootst
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact]
+- [Contact](#contact)
 
 
 ## Usage
