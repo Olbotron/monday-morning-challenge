@@ -22,7 +22,7 @@ The project creates a centered profile card that includes:
 - A short bio ("Web Developer & Designer").
 - A "Follow" button styled using Bootstrap.
 
- ## Contributing
+## Contributing
 -  Fatima Abaiji
 -  Oliver Hughes
 -  Ben
