@@ -32,5 +32,5 @@ The card is responsive and centered on the page using Bootstrap's card component
 
 ## contact
 Email: fatima.abaiji@gmail.com
-Email: 
-Email: 
+Email: oliver.g.hughes@gmail.com
+Email: codemonkey@3disturbedmonkeys.co.uk
