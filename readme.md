@@ -10,7 +10,7 @@ a name, a short bio, and a "Follow" button. It is responsive and utilizes Bootst
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact
+- [Contact](#contact]
 
 
 ## Usage
@@ -21,7 +21,8 @@ The project creates a centered profile card that includes:
 - A short bio ("Web Developer & Designer").
 - A "Follow" button styled using Bootstrap.
 
-- ##Contributing
+ ##Contributing
+- 
 -  fatima-abaiji
 -  oliver
 -  ben
